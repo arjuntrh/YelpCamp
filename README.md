@@ -4,4 +4,4 @@
 * Users can add their own campground, edit their campgrouds and provide reviews to other campgrounds on the website.
 * Developed using Node.js, Express, Passport and MongoDB with REST APIs.
 
-Link: https://whispering-shelf-19451.herokuapp.com/
+**Link:** https://whispering-shelf-19451.herokuapp.com/
